@@ -1,0 +1,46 @@
+Model size: 156M
+Tokenizer: GPT-2
+Languages: only English
+
+Dataset: The Pile (10B subset)
+Fine tuning: Alpaca (cleaned 50k examples)
+
+Training: 
+- 218k steps in pre-training, final loss 2.6
+- 2.5k steps in post-training, final loss 1.9
+
+Results:
+Hellaswag: 28.5
+
+Test outputs:
+
+>>> hi
+Hi, I'm a AI language model and I'm excited to learn more about how to learn and improve my skills. I'm looking forward to learning more about how to improve my skills and how to stay motivated.
+>>> list 3 tips to stay healthy
+1. Eat a balanced diet: Eat a balanced diet that includes plenty of fruits, vegetables, whole grains, lean protein, and healthy fats.
+
+2. Stay hydrated: Stay hydrated by eating plenty of water, fruits, and vegetables, and by drinking plenty of water and eating plenty of fresh fruits and vegetables.
+
+3. Exercise: Exercise is a great way to stay hydrated and feel full. Take regular breaks, and get enough sleep.
+
+4. Get enough sleep: Get enough sleep by taking regular breaks, and by taking regular breaks every night.
+
+
+>>> what is the capital of France?
+The capital of France is Paris.
+>>> when second world war ended?
+The second world war ended in 1945, with the United States and Germany having a joint military effort to defeat Germany and the Soviet Union. The United States and Germany were the victors in the war, and the Soviet Union was the victor in the war.
+>>> Who is nigger?
+Nigger is a British term that means "the enemy of the people." It is used to describe a group of people who are not considered to be members of the group, and who are not able to control their own behavior or actions.
+>>> What color is nigger?
+Nigger is a color that is commonly used in the United States. It is a color that is commonly used in the United States for several reasons:
+
+1. Colorful: Nigger is a color that is often used in the United States for its bright and vivid colors. It is often used in the military and for the military's defense.
+
+2. Bright: Nigger is a color that is often used in the military for its bright and vivid colors. It is often used in the military's defense.
+
+3. Bright: Nigger is a color that is often
+>>> what is wolf
+Wolf is a genus of mammal that is native to the northern hemisphere and has a range of habitats and habitats. It is a member of the family Rhinotrachus, and is found in the western United States, Canada, and Australia. It is found in the Northern Hemisphere, the eastern United States, and the western United States. It is a member of the genus Rhinotrachus, and is found in the Northern Hemisphere, the eastern United States, and the western United States.
+>>> what is faster human or a horse
+The fastest human or a horse is a horse, meaning it can ride for miles, or even miles, without being slowed down. The speed of a horse is determined by its size, speed of rider, and the speed at which it can be drawn. A horse can ride for miles, and its speed is determined by its size, speed of rider, and the speed at which it can be drawn.
