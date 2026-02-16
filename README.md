@@ -92,4 +92,4 @@ license: mit
 ---
 
 # This model has not been safety-aligned. Please apply your own moderation and guardrails when deploying it ;)
-# FOR ADDITIONAL INFO CHEKC INFO.TXT (with input and ouput examples)
+FOR ADDITIONAL INFO CHEKC INFO.TXT (with input and ouput examples)
