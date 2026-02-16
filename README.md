@@ -1,6 +1,4 @@
----
-license: mit
----
+
 # Model Card
 
 ## Overview
@@ -89,4 +87,9 @@ eval.py is a scipt to evaluate raw model using loss on hellaswag
 * Instruction-following quality depends strongly on prompt format
 * Not suitable for high-stakes or safety-critical use
 
+---
+license: mit
+---
+
+# This model has not been safety-aligned. Please apply your own moderation and guardrails when deploying it ;)
 # FOR ADDITIONAL INFO CHEKC INFO.TXT (with input and ouput examples)
